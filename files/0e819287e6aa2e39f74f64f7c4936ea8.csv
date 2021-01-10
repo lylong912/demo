@@ -1,0 +1,3 @@
+Name,Code,Barcode Symbology,Brand,Location,Category Code,Unit Code,Sale Unit Code, Purchase Unit Code,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Image,Subcategory Code,Product Variants Separated by |,Warehouse,Quantity,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6
+sdfsadf,sdsfa,code128,Guess,Location A,9911,9900,9900,dozen,90,100,20,No Tax,exclusive,no_image.png,SC1,Red|Blue|Black|White,Adorable Anakut,10,CF3,CF4,1,10
+dfgdfgd,Long,code128,Guess,Location A,9911,9900,9900,dozen,90,100,20,No Tax,exclusive,no_image.png,SC1,Red|Blue|Black|White,Kiwi Mart,10,CF3,CF4,1,10
